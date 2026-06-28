@@ -1,6 +1,4 @@
-# Player Tracking in Sports Videos with YOLO
-
-# DS5216 - Player Tracking in Sports Videos
+# Player Tracking in Sports Videos with YOLO | SupunDTS | DTS2418 | DS5216
 
 ## Overview
 Computer vision system to detect and track players in sports videos using YOLOv8.
